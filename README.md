@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with Web Security
 - 💬 Ask me about React
 - 📫 How to reach me: @v.j._karthik on instagram or  @VJKARTHIK8 on twitter 
-- ⚡ Fun fact: MERN is the best.Change my mind.
+- ⚡ Fun fact: MERN is the best. Change my mind.
 
